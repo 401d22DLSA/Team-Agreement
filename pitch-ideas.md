@@ -42,7 +42,7 @@ Search job postings for required tech language(s).
 
 **1. Sumamry of Idea**
 
-We will create a CLI app that will show the user the total amount they have spent at Amazon over all time. Given some personal info (name, salary, household) scrape Amazon and return the data for executing a healthy average of what to spend
+We will create a CLI app that will show the user the total amount they have spent at Amazon over all time. Given some personal info (name, salary, household) scrape Amazon and return the data for executing a healthy average of what to spend.
 
 
 **2. What problem or pain point does it solve? a. Keep it high level without going into too much detail. (3-4 sentences is enough)** 
@@ -52,7 +52,10 @@ Helps users understand the impact of their Amazon spending and prompt questions 
 
 **3. Minimum Viable Product (MVP) definition. What is the minimum required for you to present on your demo day?**
 
-Features that allow for 
+Features that allow for viewing Amazon order data, entering user salary data, comparing amazon data with percentage scale.
+
+Stretching Goals-
+Input budget for year, import wish list and spread across the year
 
 ----------------------------------------------
 
@@ -70,15 +73,5 @@ Helps users understand the impact of their Amazon spending and prompt questions 
 
 **3. Minimum Viable Product (MVP) definition. What is the minimum required for you to present on your demo day?**
 
-Features that allow for 
+Features that allow for viewing user's Amazon data against salary data, see categories of spending, etc.
 
-
-
-
-
-
-Pitch 2 idea (CLI):
-scrape Amazon personal spending dataset
-given some personal info (name, salary, household) scrape Amazon and return the data for executing a healthy average of what to spend
-Stretching Goals-
-Input budget for year, import wish list and spread across the year
