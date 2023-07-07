@@ -1,4 +1,7 @@
-# Team-Agreement
+# Python 401 Mid-Term Project
+Team "Cover Me": Anthony Sinitsa, Logan Reece, Dan Quinn, and Sarah Glass
+
+## Team-Agreement
 
 Dan: Pacific time zone
 
