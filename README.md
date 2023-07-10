@@ -57,9 +57,9 @@ Being aware of strengths and offering to step up or offer help in areas we are s
 ---------------------------
 ## Communication Plan
 **1. What hours will you be available to communicate?**
-- DaJon: Class times
-- Laurence: Class times
-- Reece: Class times
+- Dan: Class times
+- Logan: Class times
+- Anthony: Class times
 - Sarah: Class times, can be available until 8pm pacific when needed
 
 **2. What platforms will you use to communicate (ie. Slack, phone …)?**
