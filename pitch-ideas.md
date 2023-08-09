@@ -26,52 +26,32 @@ Features that allow user to enter data (like required programming language, post
 [Source](https://github.com/Ashishkapil/Web-scraping-job-portal-sites)
 
 
-**Additional ideas/notes:**
+## Pitch for Final
 
-Tie in an AI search. Given x criteria, can AI filter the criteria. 
+1. Summary of Idea
 
-Location-based, within past 48 hours, have AI take data from job posting and write a cover letter or template cover letter for that job.
-Checkbox the job applications you want to filter data for.
+We are proposing to create a web application that will scrape job sites for data and use AI to write cover letters. The application will allow users to search for jobs by keyword, save jobs they are interested in, and run the job's data along with their resume through AI to produce a sample cover letter for that job. 
 
-Search job postings for required tech language(s).
+2. What problem or pain point does it solve?
 
-----------------------------------------
+The application solves the problem of finding relevant and recent job listings in the tech industry, and generating sample cover letters for those listings. It also saves users time by automating the process of finding and applying for jobs.
 
+3. Minimum Viable Product (MVP) definition
 
-## Amazon data scraper
+The MVP of the application will include the following features:
 
-**1. Sumamry of Idea**
-
-We will create a CLI app that will show the user the total amount they have spent at Amazon over all time. Given some personal info (name, salary, household) scrape Amazon and return the data for executing a healthy average of what to spend.
-
-
-**2. What problem or pain point does it solve? a. Keep it high level without going into too much detail. (3-4 sentences is enough)** 
-
-Helps users understand the impact of their Amazon spending and prompt questions for behavior change.
+- Ability to search for jobs by keyword
+- Ability to save job listings to a "keep" folder
+- Ability to generate a sample cover letter for a selected job listing
+- The MVP will be sufficient to demonstrate the feasibility of the application and its potential to solve the problem of finding and applying for jobs in the tech industry.
 
 
-**3. Minimum Viable Product (MVP) definition. What is the minimum required for you to present on your demo day?**
 
-Features that allow for viewing Amazon order data, entering user salary data, comparing amazon data with percentage scale.
+## Stretch Goals
 
-Stretching Goals-
-Input budget for year, import wish list and spread across the year
-
-----------------------------------------------
-
-## Notebook Data Analysis
-
-**1. Sumamry of Idea**
-
-We will create a Jupyter notebook that will import a scraped Amazon personal spending dataset. We'll aim to display high level data stories comparing the Amazon data with pre-determined percentages/scale that will show user results.
-
-
-**2. What problem or pain point does it solve? a. Keep it high level without going into too much detail. (3-4 sentences is enough)** 
-
-Helps users understand the impact of their Amazon spending and prompt questions for behavior change.
-
-
-**3. Minimum Viable Product (MVP) definition. What is the minimum required for you to present on your demo day?**
-
-Features that allow for viewing user's Amazon data against salary data, see categories of spending, etc.
-
+- Ability to filter job listings by location, job title, and other criteria
+- Ability to generate multiple sample cover letters for a single job listing
+- Ability to customize the sample cover letters with the user's personal information
+- Ability to track the user's job application progress
+- Ability to connect with recruiters and hiring managers
+- We believe that the application has the potential to be a valuable tool for tech job seekers. We are excited to develop the application and bring it to market.
