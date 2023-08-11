@@ -14,8 +14,8 @@ Logan: Eastern time zone
 ## Cooperation Plan
 **1. What are the key strengths of each person on the team?**
 - Dan: Coordination, planning, Optimistic, good at knowing when we need to take a break and step away from the project. I want to get better at writing code from scratch and writing tests.
-- Anthony: 
-- Logan: charisma, 
+- Anthony: Problem Solver, will solve the problems. will be reliable
+- Logan: charisma, attention to detail, accountability
 - Sarah: positive attitude, organizational skills, patience for troubleshooting.
 
 **2. How can you best utilize these strengths in the execution of your project?**
